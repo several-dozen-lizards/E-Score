@@ -1,8 +1,11 @@
 # E-Score
 E-Score Parser
 CONVERSATION METRICS PARSER - EXPLAINED LIKE YOU'RE 5 (or at least not a programmer)
+
 THE BIG PICTURE
+
 What this code does: Takes a conversation between a human and AI, breaks it into turns, and measures different qualities of each AI response. Think of it like a report card with lots of different grades.
+
 The final output: An Excel file with one row per conversation turn, showing scores for different qualities.
 ________________________________________
 THE MAIN METRICS (What Gets Combined into E-Score)
