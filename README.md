@@ -1,6 +1,7 @@
 # E-Score Parser
 
 **Conversation Metrics — Explained Like You're 5 (Or at Least Not a Programmer)**
+NOTE: the parser currently only works for ChatGPT formatted conversations. ALWAYS review output to make sure that input and output line up correctly for EVERY turn - input should ONLY consist of user input, output should ONLY consist of response from LLM. ** If it doesn't, throw it out. **
 
 ---
 
